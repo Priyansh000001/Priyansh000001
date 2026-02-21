@@ -1,5 +1,5 @@
 // Typing Effect
-const text = ["Frontend Developer", "JavaScript Learner", "Future Full Stack Dev 🚀"];
+const text = ["Frontend Developer", "JavaScript Learner", "AI/ML Learner", " Cyber Security in Progress ", "Future Full Stack Dev 🚀"];
 let count = 0;
 let index = 0;
 let currentText = "";
